@@ -12,7 +12,7 @@
     "sourceMap": true,
     "allowJs": true,
     "outDir": "dist",
-    "lib": ["es7"],
+    "lib": ["dom", "es7"],
     "paths": {
       "@nestjs/common": ["./packages/common"],
       "@nestjs/common/*": ["./packages/common/*"],

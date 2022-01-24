@@ -33,3 +33,9 @@ yarn-error.log
 /packages/graphql
 /benchmarks/memory
 build/config\.gypi
+
+# build package
+dist
+
+# debug typescript
+*.js.map
